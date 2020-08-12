@@ -1,1 +1,1 @@
-Ich ändere die Datei, da ich sehen will wie es mit Ralfs Änderungen kollidiert
+Konflikt
